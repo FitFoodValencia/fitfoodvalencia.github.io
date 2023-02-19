@@ -322,6 +322,8 @@ p {
 .fh5co-main-nav .fh5co-menu-2 a.active,
 .fh5co-main-nav .fh5co-logo a.active {
   color: #14fb33;
+  border-bottom: 2px;
+  padding: 15px;
 }
 .fh5co-main-nav .fh5co-menu-1 {
   text-align: right;
