@@ -1356,4 +1356,24 @@ p {
   padding-bottom: 40px;
 }
 
+
+.lang-select{
+  float: right;
+  margin-top: -2px;
+}
+
+.lang-flag {
+  font-size: 12px;
+}
+.lang-text {
+  font-size: 15px;
+}
+
+.lang-select a span .active{
+  text-decoration: underline;
+}
+.lang-select > a > span.active{
+  font-weight: bold;
+}
+
 /*# sourceMappingURL=style.css.map */
